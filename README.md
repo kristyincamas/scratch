@@ -1,11 +1,11 @@
 # scratch
 
 #Resources
-Idiomatic 
+Idiomatic - Style guide
 https://developer.nike.com/
 
 Nike+ Developer Portal
 https://developer.nike.com/
 
-Bootstrap
+Bootstrap - front end component library
 http://getbootstrap.com/
